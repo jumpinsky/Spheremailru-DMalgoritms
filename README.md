@@ -1,1 +1,2 @@
-# Домашние задания по курсу Sphere.mail.ru - Data Mining Algoritms
+# Алгоритмы интеллектуальной обработки больших объемов данных (первый семестр)
+## Домашние задания по курсу Sphere.mail.ru - Data Mining Algoritms
